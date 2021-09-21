@@ -4,7 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is the video of Crypto App.
+
+
+https://user-images.githubusercontent.com/76679262/134226801-88fae131-625a-4f9a-8d1b-787f04238673.mp4
+
 
 A few resources to get you started if this is your first Flutter project:
 
